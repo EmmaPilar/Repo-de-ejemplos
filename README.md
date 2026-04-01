@@ -1,8 +1,10 @@
 # escribo
+
 *ayuda*
-##okey
+
+##okey\n
 **emmm**
-hola
+hola\n
 1288392
-"sis"
+"sis"/n
 121334
